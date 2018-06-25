@@ -1,0 +1,2 @@
+# UICollectionView-cell
+UIcollectionView自适应cell,但如果添加区头区尾的话则需要手动计算cell,无法自适应
